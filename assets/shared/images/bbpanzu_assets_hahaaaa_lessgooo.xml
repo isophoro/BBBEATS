@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bbpanzu_assets_hahaaaa_lessgooo.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="da down0000" x="0" y="0" width="407" height="624"/>
+	<SubTexture name="da down0001" x="0" y="0" width="407" height="624"/>
+	<SubTexture name="da down0002" x="407" y="0" width="407" height="624"/>
+	<SubTexture name="da down0003" x="407" y="0" width="407" height="624"/>
+	<SubTexture name="da down0004" x="407" y="0" width="407" height="624"/>
+	<SubTexture name="da down0005" x="407" y="0" width="407" height="624"/>
+	<SubTexture name="da down0006" x="407" y="0" width="407" height="624"/>
+	<SubTexture name="da down0007" x="407" y="0" width="407" height="624"/>
+	<SubTexture name="da down0008" x="407" y="0" width="407" height="624"/>
+	<SubTexture name="da down0009" x="407" y="0" width="407" height="624"/>
+	<SubTexture name="da down0010" x="407" y="0" width="407" height="624"/>
+	<SubTexture name="da down0011" x="407" y="0" width="407" height="624"/>
+	<SubTexture name="da down0012" x="407" y="0" width="407" height="624"/>
+	<SubTexture name="da down0013" x="407" y="0" width="407" height="624"/>
+	<SubTexture name="da idle0000" x="814" y="0" width="407" height="624" frameX="0" frameY="0" frameWidth="412" frameHeight="624"/>
+	<SubTexture name="da idle0001" x="814" y="0" width="407" height="624" frameX="0" frameY="0" frameWidth="412" frameHeight="624"/>
+	<SubTexture name="da idle0002" x="1221" y="0" width="407" height="624" frameX="0" frameY="0" frameWidth="412" frameHeight="624"/>
+	<SubTexture name="da idle0003" x="1221" y="0" width="407" height="624" frameX="0" frameY="0" frameWidth="412" frameHeight="624"/>
+	<SubTexture name="da idle0004" x="1628" y="0" width="410" height="624" frameX="0" frameY="0" frameWidth="412" frameHeight="624"/>
+	<SubTexture name="da idle0005" x="1628" y="0" width="410" height="624" frameX="0" frameY="0" frameWidth="412" frameHeight="624"/>
+	<SubTexture name="da idle0006" x="0" y="624" width="411" height="624" frameX="0" frameY="0" frameWidth="412" frameHeight="624"/>
+	<SubTexture name="da idle0007" x="0" y="624" width="411" height="624" frameX="0" frameY="0" frameWidth="412" frameHeight="624"/>
+	<SubTexture name="da idle0008" x="411" y="624" width="412" height="624"/>
+	<SubTexture name="da idle0009" x="411" y="624" width="412" height="624"/>
+	<SubTexture name="da idle0010" x="411" y="624" width="412" height="624"/>
+	<SubTexture name="da idle0011" x="411" y="624" width="412" height="624"/>
+	<SubTexture name="da idle0012" x="411" y="624" width="412" height="624"/>
+	<SubTexture name="da idle0013" x="411" y="624" width="412" height="624"/>
+	<SubTexture name="da left0000" x="823" y="624" width="407" height="624"/>
+	<SubTexture name="da left0001" x="823" y="624" width="407" height="624"/>
+	<SubTexture name="da left0002" x="1230" y="624" width="407" height="624"/>
+	<SubTexture name="da left0003" x="1230" y="624" width="407" height="624"/>
+	<SubTexture name="da left0004" x="1230" y="624" width="407" height="624"/>
+	<SubTexture name="da left0005" x="1230" y="624" width="407" height="624"/>
+	<SubTexture name="da left0006" x="1230" y="624" width="407" height="624"/>
+	<SubTexture name="da left0007" x="1230" y="624" width="407" height="624"/>
+	<SubTexture name="da left0008" x="1230" y="624" width="407" height="624"/>
+	<SubTexture name="da left0009" x="1230" y="624" width="407" height="624"/>
+	<SubTexture name="da left0010" x="1230" y="624" width="407" height="624"/>
+	<SubTexture name="da left0011" x="1230" y="624" width="407" height="624"/>
+	<SubTexture name="da left0012" x="1230" y="624" width="407" height="624"/>
+	<SubTexture name="da left0013" x="1230" y="624" width="407" height="624"/>
+	<SubTexture name="da right0000" x="1637" y="624" width="407" height="624"/>
+	<SubTexture name="da right0001" x="1637" y="624" width="407" height="624"/>
+	<SubTexture name="da right0002" x="0" y="1248" width="407" height="624"/>
+	<SubTexture name="da right0003" x="0" y="1248" width="407" height="624"/>
+	<SubTexture name="da right0004" x="0" y="1248" width="407" height="624"/>
+	<SubTexture name="da right0005" x="0" y="1248" width="407" height="624"/>
+	<SubTexture name="da right0006" x="0" y="1248" width="407" height="624"/>
+	<SubTexture name="da right0007" x="0" y="1248" width="407" height="624"/>
+	<SubTexture name="da right0008" x="0" y="1248" width="407" height="624"/>
+	<SubTexture name="da right0009" x="0" y="1248" width="407" height="624"/>
+	<SubTexture name="da right0010" x="0" y="1248" width="407" height="624"/>
+	<SubTexture name="da right0011" x="0" y="1248" width="407" height="624"/>
+	<SubTexture name="da right0012" x="0" y="1248" width="407" height="624"/>
+	<SubTexture name="da right0013" x="0" y="1248" width="407" height="624"/>
+	<SubTexture name="da up0000" x="407" y="1248" width="407" height="624"/>
+	<SubTexture name="da up0001" x="407" y="1248" width="407" height="624"/>
+	<SubTexture name="da up0002" x="814" y="1248" width="407" height="624"/>
+	<SubTexture name="da up0003" x="814" y="1248" width="407" height="624"/>
+	<SubTexture name="da up0004" x="814" y="1248" width="407" height="624"/>
+	<SubTexture name="da up0005" x="814" y="1248" width="407" height="624"/>
+	<SubTexture name="da up0006" x="814" y="1248" width="407" height="624"/>
+	<SubTexture name="da up0007" x="814" y="1248" width="407" height="624"/>
+	<SubTexture name="da up0008" x="814" y="1248" width="407" height="624"/>
+	<SubTexture name="da up0009" x="814" y="1248" width="407" height="624"/>
+	<SubTexture name="da up0010" x="814" y="1248" width="407" height="624"/>
+	<SubTexture name="da up0011" x="814" y="1248" width="407" height="624"/>
+	<SubTexture name="da up0012" x="814" y="1248" width="407" height="624"/>
+	<SubTexture name="da up0013" x="814" y="1248" width="407" height="624"/>
+</TextureAtlas>
